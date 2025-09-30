@@ -35,3 +35,7 @@ Industries are ranked by average percentage change in employment.
 - Employment growth was concentrated in **knowledge-intensive sectors**, particularly **professional services, real estate, and consultancy**.  
 - Expansion was uneven geographically, with cities across England showing stronger increases compared to Scotland and Wales.  
 - Percentage change highlights **smaller sectors growing rapidly**, while absolute change reveals the dominance of large industries.  
+
+## My Dashboard
+-The below image shows the dashboard as it appears on Tableau Public.
+<img src="https://github.com/user-attachments/assets/3HVteFYLqRJuBEvVYgSAd4" alt="UK Employment Change Dashboard 2011-2014" width="800"/>
