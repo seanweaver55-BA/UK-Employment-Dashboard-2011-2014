@@ -1,50 +1,34 @@
-# UK Employment Dashboard (2011–2014) – Tableau Project
+# UK Employment Change Dashboard (2011–2014)
 
-This Tableau project explores changes in UK employment between 2011 and 2014, across industries and cities. It demonstrates my ability to clean, analyze, and visualize labor market data in a clear and engaging way.
-
-## Dashboard Preview
-**UK Employment Dashboard 2011–2014**
+This Tableau dashboard analyses employment changes across the UK between 2011 and 2014, highlighting shifts by **city**, **industry**, and **sub-industry**. The visualisation combines spatial, categorical, and proportional views to provide a multi-angle perspective on labour market dynamics.  
 
 ---
 
-## Key Features
+## Dashboard Components  
 
-**Industry Trends**  
-Bar chart showing employment change by 2-digit industry codes from 2011 to 2014.  
-- Professional, Scientific & Technical Activities recorded the largest increase (+134,655 jobs).  
-- Administrative and Real Estate sectors also saw significant growth.  
+### 1. Avg % Change by City (Map View)  
+A geographic map plots average percentage employment change across UK cities.  
+- Larger and brighter circles indicate higher growth.  
+- This allows quick identification of regional hotspots and areas of slower expansion.  
 
-**Top 5 Sub-Industries**  
-Treemap highlighting the sub-industries with the highest absolute growth:  
-- Real Estate Activities (+65,387 jobs)  
-- Management Consultancy  
-- Services to Buildings  
-- Human Health Activities  
-- Advertising and Market Research  
+### 2. Top 5 Sub-Industries (Treemap)  
+The treemap highlights the sub-industries with the strongest absolute job growth.  
+- **Real estate activities** (+65,387 jobs) stands out as the single largest contributor.  
+- Other fast-growing areas include **management consultancy**, **building services**, and **human health activities**.  
 
-**City-Level Insights**  
-Map visualization showing average employment % change by city.  
-- London led with growth rates up to +1.22%.  
-- Some regions experienced minimal change (<0.1%).  
+### 3. Change by Industry (Bar Chart)  
+A bar chart shows absolute job change by major 2-digit industries.  
+- **Professional, Scientific & Technical Activities** (+134,655) and **Administrative & Support Service Activities** (+120,169) recorded the largest gains.  
+- Sectors such as **Education**, **Construction**, and **Information & Communication** experienced smaller increases.  
 
-**Job Comparison (2011 vs 2014)**  
-Dot plot comparing employment numbers in 2011 and 2014 across the ten fastest-growing industries.  
-
----
-
-## Skills Demonstrated
-- Tableau Public: Advanced dashboard design and storytelling  
-- Data Preparation: Aggregation, filtering, and hierarchical grouping  
-- Analytical Thinking: Extracting insights and emphasizing key trends  
-- Spatial Analysis: Mapping employment patterns with Mapbox  
+### 4. Avg % Change in Employment by Industry (Bar Chart)  
+Industries are ranked by average percentage change in employment.  
+- Growth was most pronounced in **Real Estate Activities** (+2.97%) and **Professional & Technical Services** (+2.08%).  
+- A few industries show slight contraction, e.g., **Electricity, Gas & Steam** (–0.07%).  
 
 ---
 
-## Explore the Dashboard
-- [View on Tableau Public](#)  
-- [Download Workbook](#)  
-
----
-
-## Feedback
-Comments and suggestions are welcome — feel free to reach out via the Tableau Public page.
+## Key Insights  
+- Employment growth was concentrated in **knowledge-intensive sectors**, particularly **professional services, real estate, and consultancy**.  
+- Expansion was uneven geographically, with cities across England showing stronger increases compared to Scotland and Wales.  
+- Percentage change highlights **smaller sectors growing rapidly**, while absolute change reveals the dominance of large industries.  
