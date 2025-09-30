@@ -38,4 +38,4 @@ Industries are ranked by average percentage change in employment.
 
 ## My Dashboard
 -The below image shows the dashboard as it appears on Tableau Public.
-<img src="https://github.com/user-attachments/assets/3HVteFYLqRJuBEvVYgSAd4" alt="UK Employment Change Dashboard 2011-2014" width="800"/>
+
