@@ -38,4 +38,5 @@ Industries are ranked by average percentage change in employment.
 
 ## My Dashboard
 -The below image shows the dashboard as it appears on Tableau Public.
+<img src="https://github.com/user-attachments/assets/b40afb3e-e481-43
 
